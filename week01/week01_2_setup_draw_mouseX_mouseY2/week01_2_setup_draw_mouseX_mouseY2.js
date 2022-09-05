@@ -1,3 +1,4 @@
+///其實是week01_3_p5_js.pde，不小心多複製
 function setup() {
     initializeFields();
     createCanvas(500, 500);
